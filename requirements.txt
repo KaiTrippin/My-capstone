@@ -1,0 +1,5 @@
+#pandas v.2.2.2
+#numpy v.1.26.4
+#matplotlib v.3.8.4
+#seaborn v.0.13.2
+#scikit-learn v.1.4.2
